@@ -5,9 +5,12 @@
      Replace image URLs only if your generated SVG files differ.
 ========================================================== -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A004D,50:BF00C9,100:FF10F0&height=240&section=header&text=Hi%2C%20I'm%20Cathrine&fontSize=52&fontColor=#FFFFFF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Always%20Learning&descSize=20&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" alt="Neon pink profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Hi%2C%20I'm%20Cathrine&fontSize=52&fontColor=000000&fontAlignY=38&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Always%20Learning&descSize=20&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" />
+
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF10F0&center=true&vCenter=true&width=650&lines=Welcome+to+My+Profile+%F0%9F%92%96;Building+cool+things+with+code;Open+to+collaborate+%E2%9C%A8;Always+learning+something+new" alt="Animated introduction" />
@@ -33,20 +36,18 @@
 ⚡  Fun fact               →  Always learning something new!
 ```
 
----
-
-## 🛠️ Tech Stack
-
-
 
 ---
 
 ## 🛠️ Tech Stack
+
 
 <div align="center">
 
-<!-- EXISTING ANIMATED TECH STACK -->
-<img src="https://raw.githubusercontent.com/cathyclaire08-source/cathyclaire08-source/output/tech-stack.svg" alt="Animated neon tech stack" width="100%" />
+<img src="https://raw.githubusercontent.com/cathyclaire08-source/cathyclaire08-source/output/tech-stack.svg" width="100%" alt="Animated neon pink technology stack" />
+
+</div>
+
 
 <br/><br/>
 
