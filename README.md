@@ -1,10 +1,9 @@
 <!-- NEON PINK GITHUB PROFILE README
-     Replace every YOUR_USERNAME with your GitHub username.
      Main neon pink: FF10F0 | Accent: FF2E97 | Dark bg: 0D0D0D -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Hi%2C%20I'm%20I'm Cathrine&fontSize=52&fontColor=FF10F0&fontAlignY=38&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Always%20Learning&descSize=20&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Hi%2C%20I'm%20Cathrine&fontSize=52&fontColor=FF10F0&fontAlignY=38&desc=Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Always%20Learning&descSize=20&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF10F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+neon+corner+%F0%9F%92%96;Building+cool+things+with+code;Open+to+collaborate+%E2%9C%A8" alt="Typing SVG" />
@@ -82,7 +81,7 @@
 <a href="https://github.com/cathyclaire08-source/HabitArchitect">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=HabitArchitect&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
 </a>
-<a href="https://github.com/cathyclaire08-source/MyPorfolio">
+<a href="https://github.com/cathyclaire08-source/MyPortfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=MyPortfolio&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
 </a>
 
