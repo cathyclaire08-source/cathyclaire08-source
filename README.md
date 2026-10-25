@@ -37,21 +37,19 @@
 
 ## 🛠️ Tech Stack
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cathyclaire08-source/cathyclaire08-source/output/tech-stack.svg" width="100%" alt="Animated neon tech stack" />
-
-<br/><br/>
-
-![VS Code](https://img.shields.io/badge/VS%20Code-FF10F0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-FF10F0?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF10F0?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-FF10F0?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF10F0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF10F0?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF10F0?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Maven](https://img.shields.io/badge/Maven-0D0D0D?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQLite](https://img.shields.io/badge/SQLite-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 </div>
+
 
 ---
 
