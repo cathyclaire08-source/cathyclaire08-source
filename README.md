@@ -26,6 +26,7 @@
 👩‍💻  I'm currently working on  →  IT2G_CAJES_MIDTERM
 🌱  I'm currently learning     →  PYTHON, JAVA, MAVEN, SQL
 🤝  I'm looking to collaborate →  LEARNING PROGRAMMING
+```
 
 ---
 
@@ -78,11 +79,11 @@
 
 <div align="center">
 
-<a href="https://github.com/cathyclaire08-source/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=REPO_ONE&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
+<a href="https://github.com/cathyclaire08-source/HabitArchitect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=HabitArchitect&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
 </a>
-<a href="https://github.com/cathyclaire08-source/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=REPO_TWO&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
+<a href="https://github.com/cathyclaire08-source/MyPorfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cathyclaire08-source&repo=MyPortfolio&bg_color=0D0D0D&title_color=FF10F0&text_color=FFFFFF&icon_color=FF10F0&border_color=FF10F0&disable_animations=false" />
 </a>
 
 </div>
@@ -93,7 +94,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF10F0&color=FF10F0)](https://linkedin.com/in/Cathrine Claire Cajes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF10F0&color=FF10F0)](https://linkedin.com/in/Cathrine-Claire-Cajes)
 [![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF10F0&color=FF10F0)](https://instagram.com/cxth3e)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF10F0&color=FF10F0)](mailto:cxth3e@gmail.com)
 
