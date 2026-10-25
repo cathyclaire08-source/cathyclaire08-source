@@ -148,9 +148,3 @@
 </div>
 
 
-### 💖 Thanks for visiting my My Profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A004D,50:BF00C9,100:FF10F0&height=130&section=footer" width="100%" alt="Neon pink curved footer" />
-
-</div>
-
